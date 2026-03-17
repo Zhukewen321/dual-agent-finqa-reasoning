@@ -328,9 +328,6 @@ json
 - [TRL](https://github.com/huggingface/trl) for DPO training
 - [FinQA](https://github.com/czyssrs/FinQA) for the dataset
 
-## 📄 License
-
-MIT License
 
 ## 📧 Contact
 
