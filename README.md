@@ -1,4 +1,4 @@
-# FinQA-GRPO-DPO
+# dual-agent-finqa-reasoning
 
 > Dual-Agent Financial Reasoning Enhancement via GRPO and Multi-Tip RPO-DPO
 
